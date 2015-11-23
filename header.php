@@ -14,7 +14,7 @@
 
 	<body>
 		<div class="page-header">
-  			<h1> lite TExt<small> <img src="css/teabag.png" height="80px"> </small></h1>
+  			<h1> lite TExt<small> <img src="images/teabag.png" height="80px"> </small></h1>
 		</div>
 		
 		
